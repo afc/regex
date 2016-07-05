@@ -15,9 +15,9 @@ make -f Makefile
 
 Theories based on Russ Cox's articles
 
->>[Regular Expression Matching Can Be Simple And Fast]
+> [Regular Expression Matching Can Be Simple And Fast]
 
->>[Regular Expression Matching: the Virtual Machine Approach]
+> [Regular Expression Matching: the Virtual Machine Approach]
 
 Code based on [Russ Cox] and mostly on [Eric Mulvaney's implementation]
 
