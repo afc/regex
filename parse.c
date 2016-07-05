@@ -7,9 +7,9 @@
 
 // TODO: for a better debug information display
 // using a recursive-depth to show preceding tabs
-#define PARSE_STACK(msg) {                     \
-    if (flag & TRACE_PARSE)                    \
-        fprintf(stdout, "    %s\n", msg);    \
+#define PARSE_STACK(msg) {                  \
+    if (flag & TRACE_PARSE)                 \
+        fprintf(stdout, "    %s\n", msg);   \
 }
 
 typedef struct tree_t {
